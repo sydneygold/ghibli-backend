@@ -5,9 +5,10 @@ class CreateSpecies < ActiveRecord::Migration[6.0]
       t.string :classification
       t.string :eye_colors
       t.string :hair_colors
-      # t.string :image
+      t.string :image
+      t.string :movie_titles
 
       t.timestamps
-    end
+    end 
   end
 end
