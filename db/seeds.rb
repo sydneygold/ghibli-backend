@@ -53,56 +53,56 @@ ponyo = Movie.create(
 Species.create(
     name: "human",
     classification: "mammal", 
-    eye_colors: ["black", "blue", "brown", "grey", "green", "hazel"], 
-    hair_colors: ["black", "blonde", "brown", "grey", "white"], 
+    eye_colors: "black, blue, brown, grey, green, hazel", 
+    hair_colors: "black, blonde, brown, grey, white", 
     image: "https://images.gr-assets.com/hostedimages/1421461455ra/13379424.gif",
-    movie_titles: ["Spirited Away", "My Neighbor Toroto", "Princess Monoke","Howls Moving Castle", "Kike's Delivery Service", "Ponyo"]
+    movie_titles: "Spirited Away, My Neighbor Toroto, Princess Monoke,Howls Moving Castle, Kike's Delivery Service, Ponyo"
 )
 Species.create(
     name: "deer", 
     classification: "elk", 
-    eye_colors: ["black", "red"],
-    hair_colors: ["brown", "light orange"],
+    eye_colors: "black, red",
+    hair_colors: "brown, light orange",
     image: "https://data.whicdn.com/images/291002260/original.gif",
-    movie_titles: ["Princess Mononoke"]
+    movie_titles: "Princess Mononoke"
 )
 Species.create(
     name: "spirit",
     classification: "spirit",
-    eye_colors: ["red"],
-    hair_colors: ["light orange"],
+    eye_colors: "red",
+    hair_colors: "light orange",
     image: "https://giphy.com/gifs/maudit-maudit-hayao-miyazaki-princess-mononoke-gDI6uVVVYEWVG",
-    movie_titles: ["Spirited Away", "My Neighbor Toroto", "Princess Monoke","Howls Moving Castle", "Kike's Delivery Service", "Ponyo"]
+    movie_titles: "Spirited Away, My Neighbor Toroto, Princess Monoke, Howls Moving Castle, Kike's Delivery Service, Ponyo"
 )
 Species.create(
     name: "god",
     classification: "god", 
-    eye_colors: ["brown"], 
-    hair_colors: ["white"],
+    eye_colors: "brown", 
+    hair_colors: "white",
     image: "https://i.pinimg.com/originals/71/8c/4e/718c4e1b5af1be619560a7a42e058159.gif",
-    movie_titles: ["Spirited Away", "My Neighbor Toroto", "Princess Monoke","Howls Moving Castle", "Ponyo"]
+    movie_titles: "Spirited Away, My Neighbor Toroto, Princess Monoke, Howls Moving Castle, Ponyo"
 )
 Species.create(
     name: "cat",
     classification: "mammal",
-    eye_colors: ["brown", "black", "yellow", "white", "emerald", "blue", "green"],
-    hair_colors: ["white", "black", "brown", "beige", "grey", "yellow"],
+    eye_colors: "brown, black, yellow, white, emerald, blue, green",
+    hair_colors: "white, black, brown, beige, grey, yellow",
     image: "https://thumbs.gfycat.com/QuaintUnfitAsiaticwildass-small.gif",
-    movie_titles: ["Kiki's Delivery Service"]
+    movie_titles: "Kiki's Delivery Service"
 )
 Species.create(
     name: "totoro",
     classification: "mammal", 
-    eye_colors: ["grey"],
-    hair_colors: ["grey"], 
+    eye_colors: "grey",
+    hair_colors: "grey", 
     image: "https://64.media.tumblr.com/a829bac2dae934afbaa1f7ce13e31c09/tumblr_moar1oLJTv1qhd8sao1_500.gif",
-    movie_titles: ["My Neighbor Totoro"]
+    movie_titles: "My Neighbor Totoro"
 )
 Species.create(
     name: "calcifer",
     classification: "demon", 
-    eye_colors: ["red", "black"],
-    hair_colors: ["red"], 
+    eye_colors: "red, black",
+    hair_colors: "red", 
     image: "https://media4.giphy.com/media/Wo0Yw7qwzgQak/giphy.gif",
-    movie_titles: ["Howl's Moving Castle"]
+    movie_titles: "Howl's Moving Castle"
 )
