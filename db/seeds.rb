@@ -36,12 +36,12 @@ mononoke = Movie.create(
     image: "https://images-na.ssl-images-amazon.com/images/I/51Xl0K7PlUL._AC_.jpg"
 )
 howls = Movie.create(
-    name: "Howl's Movie Castle",
+    name: "Howl's Moving Castle",
     image: "https://images-na.ssl-images-amazon.com/images/I/8163kSmfdvL._AC_SL1500_.jpg"
 )
 kikis = Movie.create(
     name: "Kiki's Delivery Service",
-    image: "https://i.etsystatic.com/19989933/r/il/c5ef55/1899547467/il_570xN.1899547467_pw1m.jpg"
+    image: "https://images-na.ssl-images-amazon.com/images/I/51yPFJAL9iL._AC_.jpg"
 )
 ponyo = Movie.create(
     name: "Ponyo",
