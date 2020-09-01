@@ -71,7 +71,7 @@ Species.create(
     classification: "spirit",
     eye_colors: ["red"],
     hair_colors: ["light orange"],
-    image: "https://giphy.com/gifs/maudit-maudit-hayao-miyazaki-princess-mononoke-gDI6uVVVYEWVG",
+    image: "https://i.kym-cdn.com/photos/images/original/000/796/334/687.gif",
     movie_titles: ["Spirited Away", "My Neighbor Toroto", "Princess Monoke","Howls Moving Castle", "Kike's Delivery Service", "Ponyo"]
 )
 Species.create(
