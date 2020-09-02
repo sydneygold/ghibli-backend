@@ -56,7 +56,7 @@ Species.create(
     eye_colors: "black, blue, brown, grey, green, hazel", 
     hair_colors: "black, blonde, brown, grey, white", 
     image: "https://images.gr-assets.com/hostedimages/1421461455ra/13379424.gif",
-    movie_titles: "Spirited Away, My Neighbor Toroto, Princess Mononoke, Howl's Moving Castle, Kiki's Delivery Service, Ponyo"
+    movie_titles: "Spirited Away, My Neighbor Totoro, Princess Mononoke, Howl's Moving Castle, Kiki's Delivery Service, Ponyo"
 )
 Species.create(
     name: "deer", 
@@ -72,7 +72,7 @@ Species.create(
     eye_colors: "red",
     hair_colors: "light orange",
     image: "https://i.kym-cdn.com/photos/images/original/000/796/334/687.gif",
-    movie_titles: "Spirited Away, My Neighbor Toroto, Princess Mononoke, Howl's Moving Castle, Kiki's Delivery Service, Ponyo"
+    movie_titles: "Spirited Away, My Neighbor Totoro, Princess Mononoke, Howl's Moving Castle, Kiki's Delivery Service, Ponyo"
 )
 Species.create(
     name: "god",
@@ -80,7 +80,7 @@ Species.create(
     eye_colors: "brown", 
     hair_colors: "white",
     image: "https://i.pinimg.com/originals/71/8c/4e/718c4e1b5af1be619560a7a42e058159.gif",
-    movie_titles: "Spirited Away, My Neighbor Toroto, Princess Mononoke, Howl's Moving Castle, Ponyo"
+    movie_titles: "Spirited Away, My Neighbor Totoro, Princess Mononoke, Howl's Moving Castle, Ponyo"
 )
 Species.create(
     name: "cat",
